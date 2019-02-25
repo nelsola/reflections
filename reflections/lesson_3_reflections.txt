@@ -15,3 +15,6 @@ This also allows you to finish your update and compare to other changes made to 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 We could work on different parts of the project first them when we want to merge we could discuss on a forum whilst merging so as to avoid damaging the code, also for those working on the same aspect of the code the best method would be to work from the same office and edit the code real-time.
 Using Git and GitHub is obviously making collaborating much easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When collaborating with other people on GitHub so as not to break the master code and also to be able to get reviews on my code before adding to master, This is beneficial as it encourages collaboration.
