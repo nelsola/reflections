@@ -12,3 +12,6 @@ Branches are alternate versions of code that can operate independently and are u
 What is the benefit of having a copy of the last known state of the remote stored locally?
 If you have a copy of the last known state of the remote stored locally, you can use git fetch to get the updates made by other collaborators while still working on your updates and take your time to decide when to merge .
 This also allows you to finish your update and compare to other changes made to the remote by collaborators
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+We could work on different parts of the project first them when we want to merge we could discuss on a forum whilst merging so as to avoid damaging the code, also for those working on the same aspect of the code the best method would be to work from the same office and edit the code real-time.
+Using Git and GitHub is obviously making collaborating much easier.
